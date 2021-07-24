@@ -1,4 +1,4 @@
-# borderRadiusGenerator
+# Border Radius Generator
 
 A simple border radius generator.
 
